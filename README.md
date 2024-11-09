@@ -19,9 +19,9 @@
 
 ## 🤓 About Me
 
-With over 15 years of experience in software development, I've dedicated the past 5 years to frontend development, with a focus on React.
+With over 15 years of experience in software development, I've built up a strong expertise in front-end engineering, specializing in React. 
 
-Besides my role as developer, I'm involved in most of the technical decisions, including design, architecture and development of core components, as well as, in activities related to configuration management, continuous integration, support, coaching and training other team members.
+As a Lead Software Engineer, I'm involved in key technical decisions across design, architecture, and core component development. Beyond coding, I contribute to configuration management, continuous integration, and team support, while coaching and training team members.
 
 ## ☕️ Did you like some of my projects?
 
