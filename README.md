@@ -1,27 +1,21 @@
-# 👋 Hey, I'm Joaco
+# Hey, I'm Joaco 👋
 
-Software engineer with 15+ years building systems for media, finance, healthcare, and IoT.
+Software engineer with 15+ years building systems across media, finance, healthcare, and IoT.
 
-## 🔧 Tech Stack
+Currently exploring AI and writing about software trends.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## Tech
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
-## ✍️ I Write Stuff
+## Writing
 
-I write about software, AI, and tech trends. Find me on [DEV.to](https://dev.to/joacod) and [Medium](https://medium.com/@joacod)
+I write about software, AI, and tech trends on [DEV.to](https://dev.to/joacod) and [Medium](https://medium.com/@joacod).
 
-## ☕️ Support My Work
+---
 
-You can collaborate with me giving a star ⭐️ to my projects or
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/joacod)
-
-It means a lot, thanks! 😃
+<sub>If you find my work useful, consider giving a ⭐ or [buying me a coffee](https://www.buymeacoffee.com/joacod).</sub>
